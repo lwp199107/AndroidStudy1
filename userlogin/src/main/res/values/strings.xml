@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string name="tv_user_name">用户名</string>
+    <string name="et_user_name">请输入用户名</string>
+    <string name="sign">▽</string>
+    <string name="notification">通知</string>
+    <string name="hello_world">HelloWorld</string>
+</resources>

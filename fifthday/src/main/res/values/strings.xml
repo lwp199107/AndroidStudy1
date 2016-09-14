@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FifthDay</string>
+    <string name="measure">计算</string>
+    <string name="btn_test2">这是一个按钮</string>
+    <string name="tv_test2">第二题作业</string>
+    <string name="second">第二页</string>
+    <string name="third">第三页</string>
+    <string name="phone_number">手机号码</string>
+    <string name="tv_choose_phone">选择号码</string>
+    <string name="btn_choose_message">选择短信</string>
+    <string name="send_message">发送短信</string>
+</resources>

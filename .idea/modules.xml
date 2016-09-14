@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudy.iml" filepath="$PROJECT_DIR$/AndroidStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fifthday/fifthday.iml" filepath="$PROJECT_DIR$/fifthday/fifthday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstday/firstday.iml" filepath="$PROJECT_DIR$/firstday/firstday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fourthday/fourthday.iml" filepath="$PROJECT_DIR$/fourthday/fourthday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydestop/mydestop.iml" filepath="$PROJECT_DIR$/mydestop/mydestop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thirdday/thirdday.iml" filepath="$PROJECT_DIR$/thirdday/thirdday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userlogin/userlogin.iml" filepath="$PROJECT_DIR$/userlogin/userlogin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FirstDay</string>
+    <string name="userName">用户名</string>
+    <string name="password">密　码</string>
+    <string name="Enter_userName">请输入用户名</string>
+    <string name="Enter_Password">请输入密码</string>
+    <string name="cb_rememberPWD">记住密码</string>
+    <string name="login">登录</string>
+    <string name="Register">注册</string>
+    <string name="male_choice">性　别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="birth_day">出生日期</string>
+    <string name="year">年份</string>
+    <string name="month">月份</string>
+    <string name="day">日期</string>
+    <string name="back">返回</string>
+    <string name="title">Title</string>
+    <string name="menu">菜单</string>
+    <string name="register">注册登录系统</string>
+    <string name="Enter_check_Password">请再次输入密码</string>
+    <string name="forget_password">
+        <a href="http://www.baidu.com"> 忘记密码 </a>
+    </string>
+    <string name="baidu">百度</string>
+    <string name="edit_hint_entryCountry">请输入国家</string>
+    <string name="add">添加</string>
+    <string name="menu_del">删除</string>
+    <string name="menu_update">修改</string>
+    <string name="btn_userName_choice">▽</string>
+    <string name="notification">通知</string>
+</resources>

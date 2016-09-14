@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThirdDay</string>
+    <string name="myView">自定义view</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
